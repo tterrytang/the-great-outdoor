@@ -34,7 +34,9 @@ Street Width: 60, 70, 80
 
 
 ### Type Rules
-
+1. If the building height is lower than 120ft, then it will become a low density type, model type will be outdoor performance and outdoor eating
+2. If the building set between 120-200ft, then it will become a mid density type, model type will be green roof public space
+3. If the building height is more than 200ft, then it will become a high density type, model type will be bar area and tower on podium.
 ### Use Type If:
 1. Your team is interested in exploring how the street pattern and width that affect the public space size
 2. Your team is interested in definding what is the comfortable public space and quantity the dimension of the comfortable public space
@@ -55,75 +57,22 @@ Street Width: 60, 70, 80
 
 N/A
 
+#### How To Use
+
+<b>Step by Step Instructions:</b>
+1. Draw street line on rhino, with 3 different street setting, such as, grid, star, triangle 
+2. Right click on "street1" -> Select Multiple Lines with grid.
+3. Right click on "Street2" -> Select Multiple Line with star.
+4. Right click on "Street3" -> Select Multiple Line with triangle.
+5. Adjust urban density and population option 
+6. Review visual and metric outputs. 
+​
+<b> Troubleshooting </b>
+If the street width oversized our too narrow, the running will fail, please check the input.
+
 ### Required Files
 
 [Rhino File](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/types/files/Analysis%20Tool%20Example.3dm)
 
 [Grasshopper File](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/types/files/Analysis%20Tool%20Example.gh)
 
-
-#### Description
-​
-<!--add your description below-->
-This is a basic description of the tool that is simple enough that anyone can understand that explains what it does and why someone would use it. Make sure to include the actual metric, for example, % of people with access to a park within 5 min, or % of buildings with good views. Keep it to 3 sentences or less
-​
-#### How To Use
-​
-<b>Step by Step Instructions:</b>
-1. Link to epw file
-2. Right click on "Context" -> Select Multiple and select building obstructions.
-3. Right click on "Ground" -> Select Multiple and select ground.
-4. Right click on "Ground" -> Select Multiple and select the massing(s) you want to test.
-5. Adjust Threshold X,Y,Z
-6. Review visual and metric outputs. Does it look correct? Does something look wrong? Common issues below.
-​
-<b> Troubleshooting </b>
-If the width oversized our too narrow, the running will fail, please check the input.
-​
-<!--add a list your downloadable links below with "link " appended to the beginning. You should have sample rhino + grasshopper files and a legend-->
-link MyTool_example.3dm
-link MyTool_example.gh
-link MyTool_legend.png
-link MyTool_legend.ai
-​
-#### Modeling Standards
-<!--Revise for specific modeling requirements for you analysis to run properly. If useful, add an image of properly vs improperly model geometry-->
-<h5>Please follow the following Rhino standards to ensure the proper functionality of the tool:</h5>
-<br>
-​
-<input type="checkbox"> <b>My test massing is a single, simplified, CLOSED polysurface.</b>
-  <li>Try "SelClosedSrf" to make sure it is closed.</li>
-<input type="checkbox"> <b>My model is oriented to True North.</b>
-  <li>Re-orient if it was rotated off of North at the start of the project.</li>
-<input type="checkbox"> <b>Any groups or blocks in the model have been ungrouped/exploded.</b>
-  <li>Try "SelBlockInstance" and "SelGroup" to make sure.</li>
-<input type="checkbox"> <b>My model is set to either Meters or Feet (not mm or in).</b> <br>
-<input type="checkbox"> <b>My model is free of overlapping, coplanar, or intersecting geometry.</b><br>
-<input type="checkbox"> <b>Any obstructions around the space have been modeled (trees, topography, buildings).</b><br>
-<input type="checkbox"> <b>Any curved surfaces in the model have been simplified to individual flat planes.</b><br>
-<input type="checkbox"> <b>Any surrounding context has been made into a single, joined mesh.</b>
-​
-![description](../images/tool_example_2.jpg)
-​
-<!-- ![description of image](/XIM-GSAPP-Fa20/images/tool_example_2.jpg) -->
-​
-#### Sources, Calculations + Metrics
-<!--add text and/or images for any sources for you metrics, calculations & equations, assumptions and specific metric output-->
-This tool uses this method of calculating X from this source. The metric is derived in this manner. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-​
-#### Limitations & Context
-<!--add text and/or images that expose potential for bias by stating limitations (ie what does this tool not do,) and the context in which it was created.-->
-​
-This tool does X it does not do Z and Y. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-​
-#### Examples
-<!--add images and text to describe a use case below-->
-Here is how we used this tool on a project! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-​
-![description](../images/tool_example_2.jpg)
-​
-<!-- ![description of image](/XIM-GSAPP-Fa20/images/tool_example_2.jpg) -->
-​
-Some more text here perhaps.
-​
-<b> More project examples here: </b>
