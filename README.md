@@ -6,7 +6,10 @@ The building types defined with the different locations and positions of the pub
 
 ![description](tterrytang/the-great-outdoor/blob/main/WeChat%20Screenshot_20201121213149.png)
 
+![description](tterrytang/the-great-outdoor/blob/main/WeChat%20Screenshot_20201121213149.png)
 
+<!-- ![description of image](tterrytang/the-great-outdoor/blob/main/WeChat%20Screenshot_20201121213149.png) -->
+<!-- ![description of image](/the-great-outdoor/blob/main/WeChat%20Screenshot_20201121213149.png) -->
 A. Outdoor Performance space
 
 B. Outdoor Eating space/ Arcade
