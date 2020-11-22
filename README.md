@@ -6,10 +6,15 @@ The building types defined with the different locations and positions of the pub
 
 
 A. Outdoor Performance space
+
 B. Outdoor Eating space/ Arcade
+
 C. Urban Roof Garden space
+
 D. Bar/ Barbeque Area space
+
 E. Dog Park/ Tower on Podium
+
 
 add your summary image here, try to make it explanatory of what the tool does, not just what the output looks like. For example, exposure a part of the analysis geometry. An animated GIF can also be used to explain how the tool is working--
 ​
