@@ -1,6 +1,13 @@
-# The Great Outdoor Five Building Types
+# The Great Outdoor_Five Building Types
 <!--add your title on the first line above-->
-​
+Type Description
+The building types defined with the different locations and positions of the public space. According to different population density. They can be changed to:
+A. Outdoor Performance space
+B. Outdoor Eating space/ Arcade
+C. Urban Roof Garden space
+D. Bar/ Barbeque Area space
+E. Dog Park/ Tower on Podium
+
 add your summary image here, try to make it explanatory of what the tool does, not just what the output looks like. For example, exposure a part of the analysis geometry. An animated GIF can also be used to explain how the tool is working--
 ​
 ![description](../images/tool_example_2.jpg)
