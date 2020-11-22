@@ -4,7 +4,8 @@
 
 The building types defined with the different locations and positions of the public space. According to different population density. They can be changed to:
 
-tterrytang/the-great-outdoor/blob/main/WeChat%20Screenshot_20201121213149.png
+![description](tterrytang/the-great-outdoor/blob/main/WeChat%20Screenshot_20201121213149.png)
+
 
 A. Outdoor Performance space
 
