@@ -15,7 +15,7 @@ D. Bar/ Barbeque Area space
 
 E. Dog Park/ Tower on Podium
 
-
+### Type Description
 add your summary image here, try to make it explanatory of what the tool does, not just what the output looks like. For example, exposure a part of the analysis geometry. An animated GIF can also be used to explain how the tool is working--
 ​
 ![description](../images/tool_example_2.jpg)
