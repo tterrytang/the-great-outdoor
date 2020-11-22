@@ -6,10 +6,7 @@ The building types defined with the different locations and positions of the pub
 
 ![description](https://github.com/tterrytang/the-great-outdoor/blob/main/WeChat%20Screenshot_20201121213149.png)
 
-![description](tterrytang/the-great-outdoor/blob/main/WeChat%20Screenshot_20201121213149.png)
 
-<!-- ![description of image](tterrytang/the-great-outdoor/blob/main/WeChat%20Screenshot_20201121213149.png) -->
-<!-- ![description of image](/the-great-outdoor/blob/main/WeChat%20Screenshot_20201121213149.png) -->
 A. Outdoor Performance space
 
 B. Outdoor Eating space/ Arcade
@@ -20,12 +17,10 @@ D. Bar/ Barbeque Area space
 
 E. Dog Park/ Tower on Podium
 
+![description](https://github.com/tterrytang/the-great-outdoor/blob/main/WeChat%20Screenshot_20201121214732.png
+)  High Density/ Tower on podium
 
-add your summary image here, try to make it explanatory of what the tool does, not just what the output looks like. For example, exposure a part of the analysis geometry. An animated GIF can also be used to explain how the tool is working--
-​
-![description](../images/tool_example_2.jpg)
-​
-<!-- ![description of image](/XIM-GSAPP-Fa20/images/tool_example_2.jpg) -->
+
 
 ### Required inputs 
 Urban Popilation Density: High, Mid, Low
