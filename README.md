@@ -1,5 +1,4 @@
 # the-great-outdoor
-# My Tool Title
 <!--add your title on the first line above-->
 ​
 <!--add your summary image here, try to make it explanatory of what the tool does, not just what the output looks like. For example, exposure a part of the analysis geometry. An animated GIF can also be used to explain how the tool is working-->
