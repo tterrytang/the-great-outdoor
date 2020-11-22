@@ -26,7 +26,7 @@ Mid Density/ Green roof park
 
 
 ![description](https://github.com/tterrytang/the-great-outdoor/blob/main/WeChat%20Screenshot_20201121214457.png)  
-Outdoor eating space, outdoor performance
+Low Density/ Outdoor eating space, outdoor performance
 
 
 ### Required inputs 
@@ -78,7 +78,7 @@ If the street width oversized our too narrow, the running will fail, please chec
 
 ### Required Files
 
-[Rhino File](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/types/files/Analysis%20Tool%20Example.3dm)
+[Rhino File](https://github.com/tterrytang/the-great-outdoor/blob/main/The%20Great%20Outdoors%20(1).3dm)
 
-[Grasshopper File](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/types/files/Analysis%20Tool%20Example.gh)
+[Grasshopper File](https://github.com/tterrytang/the-great-outdoor/blob/main/great%20out%20door%20building%20types.gh)
 
