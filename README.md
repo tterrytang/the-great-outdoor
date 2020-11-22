@@ -47,8 +47,13 @@ Street Width: 60, 70, 80
 4. The height of the building is too low
 
 ### What to Know & Limitations 
+1. The model is complex and need to pay attention to the different public space changed during the calculation
+2. This procedural type only supports in high population density urban area. The building height should be large than 250ft
+3. Need to set a attraction point, otherwise the model will not running
 
-### Required Plugins 
+### Required Plugins
+
+N/A
 
 ### Required Files
 
