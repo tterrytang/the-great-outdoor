@@ -25,8 +25,11 @@ add your summary image here, try to make it explanatory of what the tool does, n
 
 ### Required inputs 
 Urban Popilation Density: High, Mid, Low
+
 Streen Pattern: Loose Grid, Organic, Radial
+
 Public Space SQ.ft per households: 28, 113, 254
+
 Street Width: 60, 70, 80
 
 
