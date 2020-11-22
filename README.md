@@ -22,7 +22,27 @@ add your summary image here, try to make it explanatory of what the tool does, n
 ![description](../images/tool_example_2.jpg)
 ​
 <!-- ![description of image](/XIM-GSAPP-Fa20/images/tool_example_2.jpg) -->
-​
+
+### Required inputs 
+
+
+### Type Rules
+
+### Use Type If: 
+
+### Not Recommended to Use Type If:
+
+### What to Know & Limitations 
+
+### Required Plugins 
+
+### Required Files
+
+[Rhino File](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/types/files/Analysis%20Tool%20Example.3dm)
+
+[Grasshopper File](https://github.com/XIM-GSAPP/XIM-GSAPP-Fa20/raw/main/src/types/files/Analysis%20Tool%20Example.gh)
+
+
 #### Description
 ​
 <!--add your description below-->
