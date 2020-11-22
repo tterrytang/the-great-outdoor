@@ -2,6 +2,9 @@
 <!--add your title on the first line above-->
 Type Description
 The building types defined with the different locations and positions of the public space. According to different population density. They can be changed to:
+
+
+
 A. Outdoor Performance space
 B. Outdoor Eating space/ Arcade
 C. Urban Roof Garden space
