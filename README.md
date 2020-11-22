@@ -35,9 +35,16 @@ Street Width: 60, 70, 80
 
 ### Type Rules
 
-### Use Type If: 
+### Use Type If:
+1. Your team is interested in exploring how the street pattern and width that affect the public space size
+2. Your team is interested in definding what is the comfortable public space and quantity the dimension of the comfortable public space
+3. If your team want to futher study the sunlight, traffic issues and public space for Post-COVID era.
 
 ### Not Recommended to Use Type If:
+1. Have too much data that add up to this model type
+2. The density of population is not defined 
+3. Not thought about change the street system
+4. The height of the building is too low
 
 ### What to Know & Limitations 
 
@@ -66,7 +73,7 @@ This is a basic description of the tool that is simple enough that anyone can un
 6. Review visual and metric outputs. Does it look correct? Does something look wrong? Common issues below.
 ​
 <b> Troubleshooting </b>
-Add any common problems that could go wrong
+If the width oversized our too narrow, the running will fail, please check the input.
 ​
 <!--add a list your downloadable links below with "link " appended to the beginning. You should have sample rhino + grasshopper files and a legend-->
 link MyTool_example.3dm
