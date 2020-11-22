@@ -21,6 +21,13 @@ E. Dog Park/ Tower on Podium
 )  High Density/ Tower on podium
 
 
+![description](https://github.com/tterrytang/the-great-outdoor/blob/main/WeChat%20Screenshot_20201121214528.png)  
+Mid Density/ Green roof park
+
+
+![description](https://github.com/tterrytang/the-great-outdoor/blob/main/WeChat%20Screenshot_20201121214457.png)  
+Outdoor eating space, outdoor performance
+
 
 ### Required inputs 
 Urban Popilation Density: High, Mid, Low
